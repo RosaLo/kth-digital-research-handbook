@@ -18,20 +18,20 @@
     - [Large projects](methodologies/large-projects.md)
     - [Data science](methodologies/data-science.md)
     - [Workflows](methodologies/workflows.md)
+- ## How to guides
+    - [Jupyter at EOSC EU node](get_started/EOSC_Jupyter.md)
+    - [Contribute to this handbook](howto_guides/contribute.md)
 
-- ## Regulation
-    - [Regulation overview](regulation/regulation.md)
-    - [Funder mandates](regulation/funder-mandates.md)
-    - [Publisher requirements](regulation/publisher-requirements.md)
-
-- ## Tools
+- ## Knowledge base
     - [KTH support](tools/kth-support.md)
     - [Finding data](tools/finding-data.md)
     - [National resources](tools/national.md)
     - [Communities](tools/communities.md)
     - [Tools overview](tools/tools.md)
     - [Finding storage and compute](tools/storage.md)
-    - [Jupyter at EOSC EU node](get_started/EOSC_Jupyter.md)
+    - [Regulation overview](regulation/regulation.md)
+    - [Funder mandates](regulation/funder-mandates.md)
+    - [Publisher requirements](regulation/publisher-requirements.md)
 - ## About
     - [Terms of use](terms.md)
     - [Cookie policy](cookie-policy.md)

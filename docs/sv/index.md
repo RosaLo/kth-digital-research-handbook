@@ -20,18 +20,20 @@
 	- [Data science](methodologies/data-science.md)
 	- [Arbetsflöden](methodologies/workflows.md)
 
-- ## Reglering
-	- [Översikt reglering](regulation/regulation.md)
-	- [Finansiärers krav](regulation/funder-mandates.md)
-	- [Förlagskrav](regulation/publisher-requirements.md)
+- ## Guider
+	- [Jupyter vid EOSC EU-noden](get_started/EOSC_Jupyter.md)
+	- [Bidra till denna handbok](howto_guides/contribute.md)
 
-- ## Verktyg
+- ## Kunskapsbas
 	- [KTH-support](tools/kth-support.md)
 	- [Hitta data](tools/finding-data.md)
 	- [Nationella resurser](tools/national.md)
 	- [Communitys](tools/communities.md)
 	- [Verktygsöversikt](tools/tools.md)
 	- [Lagring och beräkning](tools/storage.md)
+	- [Översikt reglering](regulation/regulation.md)
+	- [Finansiärers krav](regulation/funder-mandates.md)
+	- [Förlagskrav](regulation/publisher-requirements.md)
 
 - ## Om
 	- [Användarvillkor](terms.md)

@@ -90,6 +90,9 @@ plugins:
             - Hem: sv/index.md
             - Guider:
                 - Snabbstart: get_started/quick_start.md
+            - Instruktionsguider:
+                - Jupyter vid EOSC EU-noden: tools/EOSC_Jupyter.md
+                - Bidra till denna handbok: howto_guides/contribute.md
             - Introduktion:
                 - Introduktion: introduction/intro.md
                 - Målgrupp: introduction/audience.md
@@ -106,42 +109,32 @@ nav:
   # When updating the nav, remember to update the i18n plugin nav as well
   - Home: index.md
   - Guides:
-    - Quick Start: get_started/quick_start.md
-  - Introduction:
-    - Introduction: introduction/intro.md
-    - Target audience: introduction/audience.md
-  - Methodologies:
-    - The research data lifecycle: methodologies/research-data-lifecycle.md
-    - Working with openness and transparency: methodologies/openness.md
-    - Confidential data and security: methodologies/confidential-data.md
-    - Qualitative research: methodologies/qualitative-research.md
-    - Quantitative research: methodologies/quantitative-research.md
-    - Large projects: methodologies/large-projects.md
-    - Data science: methodologies/data-science.md
-    - Workflows: methodologies/workflows.md
-  - Regulation:
-    - Regulation overview: regulation/regulation.md
-    - Funder mandates: regulation/funder-mandates.md
-    - Publisher requirements: regulation/publisher-requirements.md
-  - Tools:
-    - KTH support: tools/kth-support.md
-    - Finding data: tools/finding-data.md
-    - National resources: tools/national.md
-    - Communities: tools/communities.md
-    - Tools overview: tools/tools.md
-    - Finding storage and compute: tools/storage.md
-    - Jupyter at EOSC EU node: tools/EOSC_Jupyter.md
-  - About:
-    - Terms of Use: terms.md
-    - Cookies Policy: cookie-policy.md
+      - Quick Start: get_started/quick_start.md
+  - How-to guides:
+      - Jupyter at EOSC EU node: tools/EOSC_Jupyter.md
+      - Contribute to this handbook: howto_guides/contribute.md
   - Introduction:
       - Introduction: introduction/intro.md
       - Target audience: introduction/audience.md
   - Methodologies:
       - The research data lifecycle: methodologies/research-data-lifecycle.md
-      - Working with openess and transparency: methodologies/openess.md
+      - Working with openness and transparency: methodologies/openness.md
       - Confidential data and security: methodologies/confidential-data.md
-      - Qualitative research: qualitative-research.md
+      - Qualitative research: methodologies/qualitative-research.md
+      - Quantitative research: methodologies/quantitative-research.md
+      - Large projects: methodologies/large-projects.md
+      - Data science: methodologies/data-science.md
+      - Workflows: methodologies/workflows.md
+  - Knowledge base:
+      - KTH support: tools/kth-support.md
+      - Finding data: tools/finding-data.md
+      - National resources: tools/national.md
+      - Communities: tools/communities.md
+      - Tools overview: tools/tools.md
+      - Finding storage and compute: tools/storage.md
+      - Regulation overview: regulation/regulation.md
+      - Funder mandates: regulation/funder-mandates.md
+      - Publisher requirements: regulation/publisher-requirements.md
   - About:
       - Terms of Use: terms.md
       - Cookies Policy: cookie-policy.md
