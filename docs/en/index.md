@@ -31,6 +31,7 @@
     - [National resources](tools/national.md)
     - [Communities](tools/communities.md)
     - [Tools overview](tools/tools.md)
+    - [Finding storage and compute](tools/storage.md)
 - ## About
     - [Terms of use](terms.md)
     - [Cookie policy](cookie-policy.md)
