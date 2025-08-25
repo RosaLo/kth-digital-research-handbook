@@ -102,3 +102,11 @@ nav:
   - About:
       - Terms of Use: terms.md
       - Cookies Policy: cookie-policy.md
+  - Introduction:
+      - Introduction: introduction/intro.md
+      - Target audience: introduction/audience.md
+  - Methodologies:
+      - The research data lifecycle: methodologies/research-data-lifecycle.md
+      - Working with openess and transparency: methodologies/openess.md
+      - Confidential data and security: methodologies/confidential-data.md
+      - Qualitative research: qualitative-research.md
