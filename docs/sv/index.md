@@ -31,6 +31,7 @@
 	- [Nationella resurser](tools/national.md)
 	- [Communities](tools/communities.md)
 	- [Verktygsöversikt](tools/tools.md)
+	- [Jupyter på EOSC EU-noden](get_started/EOSC_Jupyter.md)
 - ## Om
 	- [Användarvillkor](terms.md)
 	- [Cookiepolicy](cookie-policy.md)
