@@ -1,0 +1,176 @@
+site_name: KTH Digital Research Handbook
+site_url: https://docs.datarepository.kth.se/
+repo_url: https://github.com/KTH-Library/docs-kth-rdm
+copyright: '© 2025 KTH Royal Institute of Technology'
+
+extra_css:
+  - stylesheets/extra.css
+theme:
+  name: material
+  font:
+    text: Figtree
+  logo: assets/images/kth-logo.svg
+  favicon: assets/images/favicon.ico
+  features:
+    - navigation.tabs
+
+  palette:
+    - scheme: slate
+      primary: custom
+    # dark theme
+      toggle:
+        icon: material/brightness-7
+        name: Dark mode
+      accent: pink
+
+    # light theme
+    - scheme: default
+      toggle:
+        icon: material/brightness-4
+        name: Light mode
+      primary: custom
+      accent: pink
+
+# https://squidfunk.github.io/mkdocs-material/reference/code-blocks/?h=code#configuration
+markdown_extensions:
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - admonition
+  - pymdownx.details
+  - attr_list
+  - md_in_html
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.tabbed:
+      alternate_style: true
+
+# Footer
+extra:
+  generator: false
+  social:
+    - icon: simple/github
+      link: https://github.com/KTH-Library/docs-kth-rdm
+validation:
+# https://www.mkdocs.org/user-guide/configuration/#validation
+  omitted_files: warn
+  absolute_links: warn
+  unrecognized_links: warn
+  anchors: warn
+
+plugins:
+  - search:
+      lang: en
+      # https://squidfunk.github.io/mkdocs-material/plugins/search/#config.pipeline
+      pipeline:
+        - stemmer
+        - stopWordFilter
+        - trimmer
+  # https://ultrabug.github.io/mkdocs-static-i18n/getting-started/quick-start/
+  # https://github.com/squidfunk/mkdocs-material/discussions/2346
+  - i18n:
+      # https://ultrabug.github.io/mkdocs-static-i18n/setup/setting-up-search/
+      reconfigure_search: true
+      # Can be 'folder' or 'suffix' e.g index.sv.md
+      docs_structure: folder
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+
+        - locale: sv
+          name: Svenska
+          build: true
+          # Nav Translations
+          # https://ultrabug.github.io/mkdocs-static-i18n/setup/localizing-navigation/
+          nav:
+            - Hem: sv/index.md
+            - Guider:
+                - Snabbstart: get_started/quick_start.md
+                - Skapa ett konto: get_started/create_account.md
+                - Logga in och logga ut: get_started/login_logout.md
+                - Visa inloggade enheter: get_started/viewing-devices.md
+                - Navigera i KTH Data Repository: get_started/navigating_site.md
+                - Sökning på metadatafält: get_started/metadata_field_searches.md
+            - Deponera data:
+                - Om poster: deposit/about_records.md
+                - Skapa ny uppladdning: deposit/create_new_upload.md
+                - Begränsade poster: deposit/restrict_record_access.md
+                - Beskriv poster: deposit/describe_records.md
+                - Hantera filer: deposit/manage_files.md
+                - Hantera poster: deposit/manage_records.md
+                - Hantera versioner: deposit/manage_versions.md
+                - Dela poståtkomst: deposit/share_record_access.md
+                - Github Integration: deposit/github_integration.md
+                - REST API: deposit/rest_api.md
+            - Communities:
+                - Om Communities: communities/about_communities.md
+                - Ansök om nytt Community: communities/apply_new_community.md
+                - Community owner-ansvar: communities/community_owner_responsibilities.md
+                - Granska inlämning: communities/review_submissions.md
+                - Granska poster: communities/curate_records.md
+            - Samarbeta och dela:
+                - Samarbeta och dela: share/about_share.md
+                - Användardelning: share/user_sharing.md
+                - Länkdelning: share/link_sharing.md
+                - Åtkomstförfrågningar: share/access_requests.md
+                - Skicka in för granskning: share/submit_for_review.md
+                - Skicka till Community: share/submit_to_community.md
+                - Hantera dina inlämningar: share/manage_submissions.md
+                - Medlemsinbjudningar: share/membership_invitations.md
+            - Om:
+                - Villkor för användning: terms.md
+                - Cookies Policy: cookie-policy.md
+            - Profil:
+                - Redigera Profil: profile/edit_profile.md
+                - Ändra profilens synlighet: profile/change_profile_visibility.md
+                - Länka ditt GitHub/ORCID-konto: profile/link_external_accounts.md
+                - Hantera aviseringsinställningar: profile/manage_notification_preferences.md
+
+nav:
+  # When updating the nav, remember to update the i18n plugin nav as well
+  - Home: index.md
+  - Guides:
+      - Quick Start: get_started/quick_start.md
+      - Create an Account: get_started/create_account.md
+      - Logging in and Logging out: get_started/login_logout.md
+      - View Logged in Devices: get_started/viewing-devices.md
+      - Navigating the KTH Data Repository: get_started/navigating_site.md
+      - Metadata Field Searches: get_started/metadata_field_searches.md
+  - Deposit:
+      - About Records: deposit/about_records.md
+      - Create New Upload: deposit/create_new_upload.md
+      - Restricted Records: deposit/restrict_record_access.md
+      - Describe Records: deposit/describe_records.md
+      - Manage Files: deposit/manage_files.md
+      - Manage Records: deposit/manage_records.md
+      - Manage Versions: deposit/manage_versions.md
+      - Share Record Access: deposit/share_record_access.md
+      - Github Integration: deposit/github_integration.md
+      - REST API: deposit/rest_api.md
+  - Communities:
+      - About Communities: communities/about_communities.md
+      - Apply for New Community: communities/apply_new_community.md
+      - Community Owner Responsibilities: communities/community_owner_responsibilities.md
+      - Review Submissions: communities/review_submissions.md
+      - Curate Records: communities/curate_records.md
+  - Collaborate and share:
+      - Collaborate and share : share/about_share.md
+      - User Sharing: share/user_sharing.md
+      - Link Sharing: share/link_sharing.md
+      - Access Requests: share/access_requests.md
+      - Submit for Review: share/submit_for_review.md
+      - Submit to Community: share/submit_to_community.md
+      - Manage Submissions: share/manage_submissions.md
+      - Membership Invitation: share/membership_invitations.md
+  - About:
+      - Terms of Use: terms.md
+      - Cookies Policy: cookie-policy.md
+  - Profile:
+      - Edit Profile: profile/edit_profile.md
+      - Change Profile Visibility: profile/change_profile_visibility.md
+      - Linking your GitHub/ORCID account: profile/link_external_accounts.md
+      - Manage Notification Preferences: profile/manage_notification_preferences.md
