@@ -50,7 +50,7 @@ This will redirect you to the Jupyter Hub service. This can run on either one of
     <figcaption>Notebook</figcaption>
     </figure>
 
-BOXED: (this should be in a small box)
-     * If you want to run your container with Sweden, select storage site number two.
-    For further documentation, please see the EOSC documentation: https://docs.psnc.pl/display/EOSCUserGuides/Interactive+Notebooks
-    For support on KTH research data services you can contact researchdata@kth.se, for detailed questions on how to use the EOSC-related services -please contact the EOSC Helpdesk with the support form when you are logged in at the EOSC EU Node portal https://open-science-cloud.ec.europa.eu/
+!!! note "Suggestions and more help"
+* If you want to run your container with Sweden, select storage site number two.
+* For further documentation, please see the [EOSC documentation](https://docs.psnc.pl/display/EOSCUserGuides/Interactive+Notebooks)
+* For support on KTH research data services you can contact [researchdata@kth.se](mailto:researchdata@kth.se), for detailed questions on how to use the EOSC-related services -please contact the EOSC Helpdesk with the support form when you are logged in at the [EOSC EU Node portal](https://open-science-cloud.ec.europa.eu/)
