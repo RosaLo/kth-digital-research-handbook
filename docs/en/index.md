@@ -6,11 +6,6 @@
 - ## Get started
     - [Quick start](get_started/quick_start.md)
 
-- ## About
-    - [Terms of use](terms.md)
-    - [Cookie policy](cookie-policy.md)
-    - [Contact us](https://www.kth.se/om/fakta)
-
 - ## Introduction
     - [Introduction](introduction/intro.md)
     - [Target audience](introduction/audience.md)
@@ -36,7 +31,10 @@
     - [National resources](tools/national.md)
     - [Communities](tools/communities.md)
     - [Tools overview](tools/tools.md)
-
+- ## About
+    - [Terms of use](terms.md)
+    - [Cookie policy](cookie-policy.md)
+    - [Contact us](https://www.kth.se/om/fakta)
 </div>
 
 ---

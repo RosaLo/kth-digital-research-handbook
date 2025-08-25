@@ -90,18 +90,23 @@ plugins:
             - Hem: sv/index.md
             - Guider:
                 - Snabbstart: get_started/quick_start.md
+            - Introduktion:
+                - Introduktion: introduction/intro.md
+                - Målgrupp: introduction/audience.md
+            - Metodologier:
+                - Forskningsdata-livscykeln: methodologies/research-data-lifecycle.md
+                - Arbeta med öppenhet och transparens: methodologies/openness.md
+                - Konfidentiella data och säkerhet: methodologies/confidential-data.md
+                - Kvalitativ forskning: methodologies/qualitative-research.md
             - Om:
-                - Villkor för användning: terms.md
-                - Cookies Policy: cookie-policy.md
+                - Användarvillkor: terms.md
+                - Cookiepolicy: cookie-policy.md
 
 nav:
   # When updating the nav, remember to update the i18n plugin nav as well
   - Home: index.md
   - Guides:
       - Quick Start: get_started/quick_start.md
-  - About:
-      - Terms of Use: terms.md
-      - Cookies Policy: cookie-policy.md
   - Introduction:
       - Introduction: introduction/intro.md
       - Target audience: introduction/audience.md
@@ -110,3 +115,6 @@ nav:
       - Working with openess and transparency: methodologies/openess.md
       - Confidential data and security: methodologies/confidential-data.md
       - Qualitative research: qualitative-research.md
+  - About:
+      - Terms of Use: terms.md
+      - Cookies Policy: cookie-policy.md
