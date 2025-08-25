@@ -5,9 +5,6 @@
 
 <div class="grid cards" markdown>
 
-- ## Get started
-    - [Quick start](get_started/quick_start.md)
-
 - ## Introduction
     - [Introduction](introduction/intro.md)
     - [Target audience](introduction/audience.md)

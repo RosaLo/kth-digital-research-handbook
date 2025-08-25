@@ -6,10 +6,6 @@
 
 <div class="grid cards" markdown>
 
-- ## Kom igång
-	- [Snabbstart](get_started/quick_start.md)
-	- [Jupyter vid EOSC EU-noden](get_started/EOSC_Jupyter.md)
-
 - ## Introduktion
 	- [Introduktion](introduction/intro.md)
 	- [Målgrupp](introduction/audience.md)
