@@ -23,7 +23,9 @@ As a KTH user you need to follow these steps to get started with Jupyter Noteboo
 
 6- Once you received notification (at the top corner ) that your request was accepted, you can now select "Small" or "Medium" if you are KTH-Staff. If you are an academic faculty staff can also select "Big" which gives GPU access as welll. Click on one of the options for "server size" available by clicking on the blue button.  to get server access. (Note:  When you have accessed the service for the first time, the next time the blue button will read "start" instead) 
 
-    IMAGE
+    <figure markdown="span">
+        ![VM sizes](assets/image/VM_size.png)
+    </figure>
 
 7- You will see a new box - "Running servers" Click on the option "View externally". 
 
