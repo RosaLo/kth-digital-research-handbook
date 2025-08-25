@@ -89,11 +89,9 @@ plugins:
           # https://ultrabug.github.io/mkdocs-static-i18n/setup/localizing-navigation/
           nav:
             - Hem: sv/index.md
-            - Guider:
-                - Snabbstart: get_started/quick_start.md
             - Instruktionsguider:
-                - Jupyter vid EOSC EU-noden: tools/EOSC_Jupyter.md
-                - Bidra till denna handbok: howto_guides/contribute.md
+                - Jupyter vid EOSC EU-noden: how_to_guides/EOSC_Jupyter.md
+                - Bidra till denna handbok: how_to_guides/contribute.md
             - Introduktion:
                 - Introduktion: introduction/intro.md
                 - Målgrupp: introduction/audience.md
@@ -102,18 +100,30 @@ plugins:
                 - Arbeta med öppenhet och transparens: methodologies/openness.md
                 - Konfidentiella data och säkerhet: methodologies/confidential-data.md
                 - Kvalitativ forskning: methodologies/qualitative-research.md
+                - Kvantitativ forskning: methodologies/quantitative-research.md
+                - Stora projekt: methodologies/large-projects.md
+                - Datavetenskap: methodologies/data-science.md
+                - Arbetsflöden: methodologies/workflows.md
+            - Kunskapsbas:
+                - KTH-stöd: knowledge_base/kth-support.md
+                - Hitta data: knowledge_base/finding-data.md
+                - Nationella resurser: knowledge_base/national.md
+                - Communities: knowledge_base/communities.md
+                - Verktygsöversikt: knowledge_base/tools.md
+                - Hitta lagring och beräkning: knowledge_base/storage.md
+                - Regelverksöversikt: knowledge_base/regulation.md
+                - Finansieringsmandat: knowledge_base/funder-mandates.md
+                - Utgivarkrav: knowledge_base/publisher-requirements.md
             - Om:
-                - Användarvillkor: terms.md
-                - Cookiepolicy: cookie-policy.md
+                - Användarvillkor: about/terms.md
+                - Cookiepolicy: about/cookie-policy.md
 
 nav:
   # When updating the nav, remember to update the i18n plugin nav as well
   - Home: index.md
-  - Guides:
-      - Quick Start: get_started/quick_start.md
   - How-to guides:
-      - Jupyter at EOSC EU node: tools/EOSC_Jupyter.md
-      - Contribute to this handbook: howto_guides/contribute.md
+      - Jupyter at EOSC EU node: how_to_guides/EOSC_Jupyter.md
+      - Contribute to this handbook: how_to_guides/contribute.md
   - Introduction:
       - Introduction: introduction/intro.md
       - Target audience: introduction/audience.md
@@ -127,15 +137,15 @@ nav:
       - Data science: methodologies/data-science.md
       - Workflows: methodologies/workflows.md
   - Knowledge base:
-      - KTH support: tools/kth-support.md
-      - Finding data: tools/finding-data.md
-      - National resources: tools/national.md
-      - Communities: tools/communities.md
-      - Tools overview: tools/tools.md
-      - Finding storage and compute: tools/storage.md
-      - Regulation overview: regulation/regulation.md
-      - Funder mandates: regulation/funder-mandates.md
-      - Publisher requirements: regulation/publisher-requirements.md
+      - KTH support: knowledge_base/kth-support.md
+      - Finding data: knowledge_base/finding-data.md
+      - National resources: knowledge_base/national.md
+      - Communities: knowledge_base/communities.md
+      - Tools overview: knowledge_base/tools.md
+      - Finding storage and compute: knowledge_base/storage.md
+      - Regulation overview: knowledge_base/regulation.md
+      - Funder mandates: knowledge_base/funder-mandates.md
+      - Publisher requirements: knowledge_base/publisher-requirements.md
   - About:
-      - Terms of Use: terms.md
-      - Cookies Policy: cookie-policy.md
+      - Terms of Use: about/terms.md
+      - Cookies Policy: about/cookie-policy.md

@@ -10,9 +10,9 @@
 	- [Introduktion](introduction/intro.md)
 	- [Målgrupp](introduction/audience.md)
 
-- ## Guider
-	- [Jupyter vid EOSC EU-noden](get_started/EOSC_Jupyter.md)
-	- [Bidra till denna handbok](howto_guides/contribute.md)
+- ## Instruktionsguider
+	- [Jupyter vid EOSC EU-noden](how_to_guides/EOSC_Jupyter.md)
+	- [Bidra till denna handbok](how_to_guides/contribute.md)
 
 - ## Metodologier
 	- [Forskningsdatalivscykeln](methodologies/research-data-lifecycle.md)
@@ -25,19 +25,19 @@
 	- [Arbetsflöden](methodologies/workflows.md)
 
 - ## Kunskapsbas
-	- [KTH-support](tools/kth-support.md)
-	- [Hitta data](tools/finding-data.md)
-	- [Nationella resurser](tools/national.md)
-	- [Communitys](tools/communities.md)
-	- [Verktygsöversikt](tools/tools.md)
-	- [Lagring och beräkning](tools/storage.md)
-	- [Översikt reglering](regulation/regulation.md)
-	- [Finansiärers krav](regulation/funder-mandates.md)
-	- [Förlagskrav](regulation/publisher-requirements.md)
+	- [KTH-support](knowledge_base/kth-support.md)
+	- [Hitta data](knowledge_base/finding-data.md)
+	- [Nationella resurser](knowledge_base/national.md)
+	- [Communitys](knowledge_base/communities.md)
+	- [Verktygsöversikt](knowledge_base/tools.md)
+	- [Lagring och beräkning](knowledge_base/storage.md)
+	- [Översikt reglering](knowledge_base/regulation.md)
+	- [Finansiärers krav](knowledge_base/funder-mandates.md)
+	- [Förlagskrav](knowledge_base/publisher-requirements.md)
 
 - ## Om
-	- [Användarvillkor](terms.md)
-	- [Cookiepolicy](cookie-policy.md)
+	- [Användarvillkor](about/terms.md)
+	- [Cookiepolicy](about/cookie-policy.md)
 	- [Kontakta oss](https://www.kth.se/om/fakta)
 </div>
 

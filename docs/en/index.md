@@ -10,8 +10,8 @@
     - [Target audience](introduction/audience.md)
 
 - ## How to guides
-    - [Jupyter at EOSC EU node](get_started/EOSC_Jupyter.md)
-    - [Contribute to this handbook](howto_guides/contribute.md)
+    - [Jupyter at EOSC EU node](how_to_guides/EOSC_Jupyter.md)
+    - [Contribute to this handbook](how_to_guides/contribute.md)
 
 - ## Methodologies
     - [The research data lifecycle](methodologies/research-data-lifecycle.md)
@@ -24,18 +24,18 @@
     - [Workflows](methodologies/workflows.md)
 
 - ## Knowledge base
-    - [KTH support](tools/kth-support.md)
-    - [Finding data](tools/finding-data.md)
-    - [National resources](tools/national.md)
-    - [Communities](tools/communities.md)
-    - [Tools overview](tools/tools.md)
-    - [Finding storage and compute](tools/storage.md)
-    - [Regulation overview](regulation/regulation.md)
-    - [Funder mandates](regulation/funder-mandates.md)
-    - [Publisher requirements](regulation/publisher-requirements.md)
+    - [KTH support](knowledge_base/kth-support.md)
+    - [Finding data](knowledge_base/finding-data.md)
+    - [National resources](knowledge_base/national.md)
+    - [Communities](knowledge_base/communities.md)
+    - [Tools overview](knowledge_base/tools.md)
+    - [Finding storage and compute](knowledge_base/storage.md)
+    - [Regulation overview](knowledge_base/regulation.md)
+    - [Funder mandates](knowledge_base/funder-mandates.md)
+    - [Publisher requirements](knowledge_base/publisher-requirements.md)
 - ## About
-    - [Terms of use](terms.md)
-    - [Cookie policy](cookie-policy.md)
+    - [Terms of use](about/terms.md)
+    - [Cookie policy](about/cookie-policy.md)
     - [Contact us](https://www.kth.se/om/fakta)
 </div>
 
