@@ -1,6 +1,7 @@
 site_name: KTH Digital Research Handbook v0.1
-site_url: https://kth-library.github.io/kth-digital-research-handbook/
-repo_url: https://kth-library.github.io/kth-digital-research-handbook
+site_url: https://kth-library.github.io/kth-digital-research-handbook
+repo_url: https://github.com/KTH-Library/kth-digital-research-handbook
+repo_name: KTH digital research handbook
 copyright: '© 2025 KTH Royal Institute of Technology'
 
 extra_css:
@@ -52,7 +53,7 @@ extra:
   generator: false
   social:
     - icon: simple/github
-      link: https://github.com/KTH-Library/docs-kth-rdm
+      link: https://github.com/KTH-Library/kth-digital-research-handbook
 validation:
 # https://www.mkdocs.org/user-guide/configuration/#validation
   omitted_files: warn
