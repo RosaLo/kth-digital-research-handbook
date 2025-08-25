@@ -14,7 +14,7 @@
     - [Contact us](https://www.kth.se/om/fakta)
 
 </div>
-
+[Introduction](introduction/intro.md)
 ---
 
 Couldn't find the answer to your question? [Contact us](https://www.kth.se/om/fakta).
