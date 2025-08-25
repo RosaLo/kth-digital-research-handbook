@@ -1,5 +1,5 @@
 <!-- markdownlint-disable MD007 -->
-# Documentation
+# Guide to digital research practices at KTH
 
 <div class="grid cards" markdown>
 
