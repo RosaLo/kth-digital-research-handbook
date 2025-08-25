@@ -1,6 +1,8 @@
 # <!-- markdownlint-disable MD007 -->
 
-> ⚠️ **Note:** This site is under construction.
+!!! warning "Site Under Construction"
+    This site is under construction.
+
 # Guide to digital research practices at KTH
 
 <div class="grid cards" markdown>

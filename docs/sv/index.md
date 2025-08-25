@@ -1,7 +1,9 @@
 
 # <!-- markdownlint-disable MD007 -->
 
-> ⚠️ **Observera:** Denna webbplats är under uppbyggnad.
+!!! warning "Webbplats under uppbyggnad"
+    Denna webbplats är under uppbyggnad.
+
 # Guide till digitala forskningsmetoder vid KTH
 
 <div class="grid cards" markdown>
