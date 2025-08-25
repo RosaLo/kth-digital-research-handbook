@@ -9,6 +9,10 @@
     - [Introduction](introduction/intro.md)
     - [Target audience](introduction/audience.md)
 
+- ## How to guides
+    - [Jupyter at EOSC EU node](get_started/EOSC_Jupyter.md)
+    - [Contribute to this handbook](howto_guides/contribute.md)
+
 - ## Methodologies
     - [The research data lifecycle](methodologies/research-data-lifecycle.md)
     - [Working with openness and transparency](methodologies/openness.md)
@@ -18,9 +22,6 @@
     - [Large projects](methodologies/large-projects.md)
     - [Data science](methodologies/data-science.md)
     - [Workflows](methodologies/workflows.md)
-- ## How to guides
-    - [Jupyter at EOSC EU node](get_started/EOSC_Jupyter.md)
-    - [Contribute to this handbook](howto_guides/contribute.md)
 
 - ## Knowledge base
     - [KTH support](tools/kth-support.md)

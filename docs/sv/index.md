@@ -10,6 +10,10 @@
 	- [Introduktion](introduction/intro.md)
 	- [Målgrupp](introduction/audience.md)
 
+- ## Guider
+	- [Jupyter vid EOSC EU-noden](get_started/EOSC_Jupyter.md)
+	- [Bidra till denna handbok](howto_guides/contribute.md)
+
 - ## Metodologier
 	- [Forskningsdatalivscykeln](methodologies/research-data-lifecycle.md)
 	- [Arbeta med öppenhet och transparens](methodologies/openness.md)
@@ -19,10 +23,6 @@
 	- [Stora projekt](methodologies/large-projects.md)
 	- [Data science](methodologies/data-science.md)
 	- [Arbetsflöden](methodologies/workflows.md)
-
-- ## Guider
-	- [Jupyter vid EOSC EU-noden](get_started/EOSC_Jupyter.md)
-	- [Bidra till denna handbok](howto_guides/contribute.md)
 
 - ## Kunskapsbas
 	- [KTH-support](tools/kth-support.md)
