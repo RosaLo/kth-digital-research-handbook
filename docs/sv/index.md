@@ -1,3 +1,4 @@
+
 <!-- markdownlint-disable MD007 -->
 # Guide till digitala forskningsmetoder vid KTH
 
@@ -5,13 +6,14 @@
 
 - ## Kom igång
 	- [Snabbstart](get_started/quick_start.md)
+	- [Jupyter vid EOSC EU-noden](get_started/EOSC_Jupyter.md)
 
 - ## Introduktion
 	- [Introduktion](introduction/intro.md)
 	- [Målgrupp](introduction/audience.md)
 
 - ## Metodologier
-	- [Forskningsdata-livscykeln](methodologies/research-data-lifecycle.md)
+	- [Forskningsdatalivscykeln](methodologies/research-data-lifecycle.md)
 	- [Arbeta med öppenhet och transparens](methodologies/openness.md)
 	- [Konfidentiella data och säkerhet](methodologies/confidential-data.md)
 	- [Kvalitativ forskning](methodologies/qualitative-research.md)
@@ -29,9 +31,10 @@
 	- [KTH-support](tools/kth-support.md)
 	- [Hitta data](tools/finding-data.md)
 	- [Nationella resurser](tools/national.md)
-	- [Communities](tools/communities.md)
+	- [Communitys](tools/communities.md)
 	- [Verktygsöversikt](tools/tools.md)
-	- [Jupyter på EOSC EU-noden](get_started/EOSC_Jupyter.md)
+	- [Lagring och beräkning](tools/storage.md)
+
 - ## Om
 	- [Användarvillkor](terms.md)
 	- [Cookiepolicy](cookie-policy.md)
@@ -40,5 +43,5 @@
 
 ---
 
-Hittar du inte svaret på din fråga? [Kontakta oss](https://www.kth.se/om/fakta).
+Hittade du inte svaret på din fråga? [Kontakta oss](https://www.kth.se/om/fakta).
 
