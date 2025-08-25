@@ -43,5 +43,5 @@
 
 ---
 
-Hittade du inte svaret på din fråga? [Kontakta oss](https://www.kth.se/om/fakta).
+Hittade du inte svaret på din fråga? Kontakta oss på [researchdata@kth.se](mailto:researchdata@kth.se).
 

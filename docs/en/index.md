@@ -41,4 +41,4 @@
 
 ---
 
-Couldn't find the answer to your question? [Contact us](https://www.kth.se/om/fakta).
+Couldn't find the answer to your question? Email [researchdata@kth.se](mailto:researchdata@kth.se).
