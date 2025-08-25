@@ -16,11 +16,10 @@ As a KTH user you need to follow these steps to get started with Jupyter Noteboo
 
 5- At the upper part of the main space you can click on " Claim your free storage" and then you see a notice to the right that the "Order is submitted". (Note: this you only need to do the first time)
 
-<figure markdown="span">
-    ![Claim storage](assets/images/claim_storage.png){ loading=lazy, width="200" }
-  <figcaption>Claim storage</figcaption>
-</figure>
-
+        <figure markdown="span">
+            ![Claim storage](assets/images/claim_storage.png){ loading=lazy }
+        <figcaption>Upload button</figcaption>
+        </figure>
 
 6- Once you received notification (at the top corner ) that your request was accepted, you can now select "Small" or "Medium" if you are KTH-Staff. If you are an academic faculty staff can also select "Big" which gives GPU access as welll. Click on one of the options for "server size" available by clicking on the blue button.  to get server access. (Note:  When you have accessed the service for the first time, the next time the blue button will read "start" instead) 
 
