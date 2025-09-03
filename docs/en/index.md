@@ -3,7 +3,7 @@
 !!! warning "Site Under Construction"
     This site is under construction.
 
-# Guide to digital research practices at KTH
+# Guide to good digital research practices at KTH v 0.1
 
 <div class="grid cards" markdown>
 
@@ -11,28 +11,28 @@
     - [Introduction](introduction/intro.md)
     - [Target audience](introduction/audience.md)
 
-- ## How to guides
-    - [Jupyter at EOSC EU node](how_to_guides/EOSC_Jupyter.md)
+- ## How to 
+    - [Access Jupyter notebooks at EOSC EU node](how_to_guides/EOSC_Jupyter.md)
     - [Contribute to this handbook](how_to_guides/contribute.md)
 
-- ## Methodologies
-    - [The research data lifecycle](methodologies/research-data-lifecycle.md)
-    - [Working with openness and transparency](methodologies/openness.md)
-    - [Confidential data and security](methodologies/confidential-data.md)
-    - [Qualitative research](methodologies/qualitative-research.md)
-    - [Quantitative research](methodologies/quantitative-research.md)
-    - [Large projects](methodologies/large-projects.md)
-    - [Data science](methodologies/data-science.md)
-    - [Workflows](methodologies/workflows.md)
+- ## I want to
+    - [Manage data from plan to publish](methodologies/research-data-life-cycle.md)
+    - [Work with openness and transparency](methodologies/openness.md)
+    - [Work with Confidential data](methodologies/confidential-data.md)
+    - [Do Qualitative research](methodologies/qualitative-research.md)
+    - [Do Quantitative research](methodologies/quantitative-research.md)
+    - [Work in large projects](methodologies/large-projects.md)
+    - [Do data-driven science](methodologies/data-science.md)
+    - [Use automated Workflows](methodologies/workflows.md)
 
 - ## Knowledge base
     - [KTH support](knowledge_base/kth-support.md)
-    - [Finding data](knowledge_base/finding-data.md)
-    - [National resources](knowledge_base/national.md)
     - [Communities](knowledge_base/communities.md)
-    - [Tools overview](knowledge_base/tools.md)
+    - [Finding data](knowledge_base/finding-data.md)
     - [Finding storage and compute](knowledge_base/storage.md)
-    - [Regulation overview](knowledge_base/regulation.md)
+    - [National resources](knowledge_base/national.md)
+    - [Tools overview](knowledge_base/tools.md)
+    - [Regulatory overview](knowledge_base/regulation.md)
     - [Funder mandates](knowledge_base/funder-mandates.md)
     - [Publisher requirements](knowledge_base/publisher-requirements.md)
 - ## About
