@@ -89,31 +89,31 @@ plugins:
           # https://ultrabug.github.io/mkdocs-static-i18n/setup/localizing-navigation/
           nav:
             - Hem: sv/index.md
-            - Instruktionsguider:
-                - Jupyter vid EOSC EU-noden: how_to_guides/EOSC_Jupyter.md
+            - Hur gör jag för att:
+                - Komma åt Jupyter vid EOSC EU-noden: how_to_guides/EOSC_Jupyter.md
                 - Bidra till denna handbok: how_to_guides/contribute.md
             - Introduktion:
                 - Introduktion: introduction/intro.md
                 - Målgrupp: introduction/audience.md
-            - Metodologier:
-                - Forskningsdata-livscykeln: methodologies/research-data-lifecycle.md
+            - Jag vill:
+                - Arbeta med data från planering till publicering: methodologies/research-data-lifecycle.md
                 - Arbeta med öppenhet och transparens: methodologies/openness.md
-                - Konfidentiella data och säkerhet: methodologies/confidential-data.md
-                - Kvalitativ forskning: methodologies/qualitative-research.md
-                - Kvantitativ forskning: methodologies/quantitative-research.md
-                - Stora projekt: methodologies/large-projects.md
-                - Datavetenskap: methodologies/data-science.md
-                - Arbetsflöden: methodologies/workflows.md
+                - Arbeta med Konfidentiella data: methodologies/confidential-data.md
+                - Använda kvalitativa forskningsmetoder: methodologies/qualitative-research.md
+                - Använda kvantitativ forskning: methodologies/quantitative-research.md
+                - Arbeta i stora projekt: methodologies/large-projects.md
+                - Arbeta med data-drivna metoder: methodologies/data-science.md
+                - Använda automatiserade arbetsflöden: methodologies/workflows.md
             - Kunskapsbas:
                 - KTH-stöd: knowledge_base/kth-support.md
-                - Hitta data: knowledge_base/finding-data.md
-                - Nationella resurser: knowledge_base/national.md
                 - Communities: knowledge_base/communities.md
-                - Verktygsöversikt: knowledge_base/tools.md
+                - Hitta data: knowledge_base/finding-data.md
                 - Hitta lagring och beräkning: knowledge_base/storage.md
+                - Nationella resurser: knowledge_base/national.md
+                - Översikt digitala verktyg: knowledge_base/tools.md
                 - Regelverksöversikt: knowledge_base/regulation.md
-                - Finansieringsmandat: knowledge_base/funder-mandates.md
-                - Utgivarkrav: knowledge_base/publisher-requirements.md
+                - Krav från finansiärer: knowledge_base/funder-mandates.md
+                - Krav från förlag: knowledge_base/publisher-requirements.md
             - Om:
                 - Användarvillkor: about/terms.md
                 - Cookiepolicy: about/cookie-policy.md
@@ -121,29 +121,29 @@ plugins:
 nav:
   # When updating the nav, remember to update the i18n plugin nav as well
   - Home: index.md
-  - How-to guides:
-      - Jupyter at EOSC EU node: how_to_guides/EOSC_Jupyter.md
+  - How to:
+      - Access Jupyter notebook at EOSC EU node: how_to_guides/EOSC_Jupyter.md
       - Contribute to this handbook: how_to_guides/contribute.md
   - Introduction:
       - Introduction: introduction/intro.md
       - Target audience: introduction/audience.md
-  - Methodologies:
-      - The research data lifecycle: methodologies/research-data-lifecycle.md
-      - Working with openness and transparency: methodologies/openness.md
-      - Confidential data and security: methodologies/confidential-data.md
-      - Qualitative research: methodologies/qualitative-research.md
-      - Quantitative research: methodologies/quantitative-research.md
-      - Large projects: methodologies/large-projects.md
-      - Data science: methodologies/data-science.md
-      - Workflows: methodologies/workflows.md
+  - I want to:
+      - Manage data from plan to publish: methodologies/research-data-lifecycle.md
+      - Work with openness and transparency: methodologies/openness.md
+      - Work with confidential data: methodologies/confidential-data.md
+      - Do Qualitative research: methodologies/qualitative-research.md
+      - Do Quantitative research: methodologies/quantitative-research.md
+      - Work in large projects: methodologies/large-projects.md
+      - Do data-driven science: methodologies/data-science.md
+      - Use automated workflows: methodologies/workflows.md
   - Knowledge base:
       - KTH support: knowledge_base/kth-support.md
-      - Finding data: knowledge_base/finding-data.md
-      - National resources: knowledge_base/national.md
       - Communities: knowledge_base/communities.md
-      - Tools overview: knowledge_base/tools.md
+      - Finding data: knowledge_base/finding-data.md
       - Finding storage and compute: knowledge_base/storage.md
-      - Regulation overview: knowledge_base/regulation.md
+      - National resources: knowledge_base/national.md
+      - Digital Tools overview: knowledge_base/tools.md
+      - Regulatory overview: knowledge_base/regulation.md
       - Funder mandates: knowledge_base/funder-mandates.md
       - Publisher requirements: knowledge_base/publisher-requirements.md
   - About:
