@@ -3,7 +3,7 @@
 !!! warning "Site Under Construction"
     This site is under construction.
 
-# Guide to good digital research practices at KTH v 0.1
+## Guide to good digital research practices at KTH v 0.1
 
 <div class="grid cards" markdown>
 
@@ -16,7 +16,7 @@
     - [Contribute to this handbook](how_to_guides/contribute.md)
 
 - ## I want to
-    - [Manage data from plan to publish](methodologies/research-data-life-cycle.md)
+    - [Manage data from plan to publish](methodologies/research-data-lifecycle.md)
     - [Work with openness and transparency](methodologies/openness.md)
     - [Work with Confidential data](methodologies/confidential-data.md)
     - [Do Qualitative research](methodologies/qualitative-research.md)

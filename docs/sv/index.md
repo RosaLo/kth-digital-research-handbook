@@ -4,7 +4,7 @@
 !!! warning "Webbplats under uppbyggnad"
     Denna webbplats är under uppbyggnad.
 
-# Guide till goda digitala forskningsmetoder vid KTH v 0.1
+## Guide till goda digitala forskningsmetoder vid KTH v 0.1
 
 <div class="grid cards" markdown>
 
