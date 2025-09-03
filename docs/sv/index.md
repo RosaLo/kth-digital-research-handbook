@@ -4,7 +4,7 @@
 !!! warning "Webbplats under uppbyggnad"
     Denna webbplats är under uppbyggnad.
 
-# Guide till digitala forskningsmetoder vid KTH
+# Guide till goda digitala forskningsmetoder vid KTH v 0.1
 
 <div class="grid cards" markdown>
 
@@ -12,30 +12,30 @@
     - [Introduktion](introduction/intro.md)
     - [Målgrupp](introduction/audience.md)
 
-- ## Instruktionsguider
-    - [Jupyter vid EOSC EU-noden](how_to_guides/EOSC_Jupyter.md)
+- ## Hur gör jag för att
+    - [komma åt Jupyter notebook hos EOSC EU-noden](how_to_guides/EOSC_Jupyter.md)
     - [Bidra till denna handbok](how_to_guides/contribute.md)
 
-- ## Metodologier
-    - [Forskningsdatalivscykeln](methodologies/research-data-lifecycle.md)
+- ## Jag vill
+    - [Arbeta med data från planering till publicering](methodologies/research-data-lifecycle.md)
     - [Arbeta med öppenhet och transparens](methodologies/openness.md)
-    - [Konfidentiella data och säkerhet](methodologies/confidential-data.md)
-    - [Kvalitativ forskning](methodologies/qualitative-research.md)
-    - [Kvantitativ forskning](methodologies/quantitative-research.md)
-    - [Stora projekt](methodologies/large-projects.md)
-    - [Data science](methodologies/data-science.md)
-    - [Arbetsflöden](methodologies/workflows.md)
+    - [Arbeta med konfidentiella data](methodologies/confidential-data.md)
+    - [Använda kvalitativa forskningsmetoder](methodologies/qualitative-research.md)
+    - [Använda kvantitativa forskningsmetoder](methodologies/quantitative-research.md)
+    - [Arbeta i stora projekt](methodologies/large-projects.md)
+    - [Arbeta med datadriven metodik](methodologies/data-science.md)
+    - [Använda automatiserade arbetsflöden](methodologies/workflows.md)
 
 - ## Kunskapsbas
     - [KTH-support](knowledge_base/kth-support.md)
+    - [Communities](knowledge_base/communities.md)
     - [Hitta data](knowledge_base/finding-data.md)
-    - [Nationella resurser](knowledge_base/national.md)
-    - [Communitys](knowledge_base/communities.md)
-    - [Verktygsöversikt](knowledge_base/tools.md)
     - [Lagring och beräkning](knowledge_base/storage.md)
-    - [Översikt reglering](knowledge_base/regulation.md)
+    - [Nationella resurser](knowledge_base/national.md)
+    - [Översikt digitala verktyg](knowledge_base/tools.md)
+    - [Översikt regulatoriska krav](knowledge_base/regulation.md)
     - [Finansiärers krav](knowledge_base/funder-mandates.md)
-    - [Förlagskrav](knowledge_base/publisher-requirements.md)
+    - [Krav från förlag vid publicering](knowledge_base/publisher-requirements.md)
 
 - ## Om
     - [Användarvillkor](about/terms.md)
