@@ -2,7 +2,7 @@
 
 Syftet med denna handbok är att den ska vara användbar inom forskningen vid KTH och vi tänker att det bästa sättet att göra den mer användbar är att bjuda in de som ska använda handboken, det vill säga forskare och doktorander, att bidra med innehåll. En redaktör kommer att granska föreslagna ändringar innan de blir en del av handboken. Redaktören tittar på om ändringen är inom ramen för handboken och kan komma att ändra mindre saker som grammatiska fel etc. 
 
-Vi vill verkligen vara så inkluderande som möjligt och göra det enkelt för all KTH-personal och doktorander att bidra. Så du kan välja ett av flera alternativa sätt att bidra, se nedan:
+Vi vill verkligen vara så inkluderande som möjligt och göra det enkelt för alla KTH:s forskare och doktorander att bidra. Så du kan välja ett av flera alternativa sätt att föreslå innehåll, se nedan:
 
 A) Genom att skicka ett e-postmeddelande till researchdata@kth.se med föreslagna ändringar. Observera att det kan ta lite tid innan någon har tid att granska och göra ändringarna synliga på webben.
 
