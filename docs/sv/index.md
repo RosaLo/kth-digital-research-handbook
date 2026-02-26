@@ -13,8 +13,9 @@
     - [Målgrupp](introduction/audience.md)
 
 - ## Hur gör jag för att
-    - [komma åt Jupyter notebook hos EOSC EU-noden](how_to_guides/EOSC_Jupyter.md)
-    - [Bidra till denna handbok](how_to_guides/contribute.md)
+    - [Bidra till denna handbok](how_to_guides/contribute.md)  
+    - [komma åt resurser inom EOSC](how_to_guides/EOSC_Jupyter.md)
+   
 
 - ## Arbeta med data
     - [Från planering till publicering](methodologies/research-data-lifecycle.md)
