@@ -12,18 +12,19 @@
     - [Target audience](introduction/audience.md)
 
 - ## How to 
-    - [Access Jupyter notebooks at EOSC EU node](how_to_guides/EOSC_Jupyter.md)
     - [Contribute to this handbook](how_to_guides/contribute.md)
+    - [Access Jupyter notebooks at EOSC EU node](how_to_guides/EOSC_Jupyter.md)
+   
 
-- ## I want to
-    - [Manage data from plan to publish](methodologies/research-data-lifecycle.md)
-    - [Work with openness and transparency](methodologies/openness.md)
-    - [Work with Confidential data](methodologies/confidential-data.md)
-    - [Do Qualitative research](methodologies/qualitative-research.md)
-    - [Do Quantitative research](methodologies/quantitative-research.md)
-    - [Work in large projects](methodologies/large-projects.md)
-    - [Do data-driven science](methodologies/data-science.md)
-    - [Use automated Workflows](methodologies/workflows.md)
+- ## Work with data in research
+    - [From plan to publish](methodologies/research-data-lifecycle.md)
+    - [Methods for openness and transparency](methodologies/openness.md)
+    - [Confidential data - good practices](methodologies/confidential-data.md)
+    - [Qualitative research - good practices](methodologies/qualitative-research.md)
+    - [Quantitative research - good practices](methodologies/quantitative-research.md)
+    - [Data-sharing in large projects](methodologies/large-projects.md)
+    - [Data-driven research methodologies](methodologies/data-science.md)
+    - [Automated Workflows](methodologies/workflows.md)
 
 - ## Knowledge base
     - [KTH support](knowledge_base/kth-support.md)
