@@ -9,15 +9,17 @@
 <div class="grid cards" markdown>
 
 - ## Introduktion
+
     - [Introduktion](introduction/intro.md)
     - [Målgrupp](introduction/audience.md)
 
 - ## Hur gör jag för att
+
     - [Bidra till denna handbok](how_to_guides/contribute.md)  
     - [komma åt resurser inom EOSC](how_to_guides/EOSC_Jupyter.md)
-   
 
 - ## Arbeta med data
+
     - [Från planering till publicering](methodologies/research-data-lifecycle.md)
     - [Metoder för öppenhet och transparens](methodologies/openness.md)
     - [Konfidentiella data -god praxis](methodologies/confidential-data.md)
@@ -28,6 +30,7 @@
     - [Automatiserade arbetsflöden](methodologies/workflows.md)
 
 - ## Kunskapsbas
+
     - [KTH-support](knowledge_base/kth-support.md)
     - [Communities](knowledge_base/communities.md)
     - [Hitta data](knowledge_base/finding-data.md)
@@ -39,12 +42,13 @@
     - [Krav från förlag vid publicering](knowledge_base/publisher-requirements.md)
 
 - ## Om
+
     - [Användarvillkor](about/terms.md)
     - [Cookiepolicy](about/cookie-policy.md)
     - [Kontakta oss](https://www.kth.se/om/fakta)
+
 </div>
 
 ---
 
 Hittade du inte svaret på din fråga? Kontakta oss på [researchdata@kth.se](mailto:researchdata@kth.se).
-
